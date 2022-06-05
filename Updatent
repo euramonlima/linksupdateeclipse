@@ -16,7 +16,7 @@
 
 "PORTA01":"80",
 
-"BUGHOST01":"vps.mimessh.online",
+"BUGHOST01":"GET / HTTP/1.1[crlf]Host: vps.mimessh.online[crlf]Upgrade: websocket[crlf][crlf]",
 
 
 
